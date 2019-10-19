@@ -16,7 +16,7 @@ Click on the name to verify the certificate. Certificates not available as links
 	3. Mathematics for Machine Learning: PCA
 * Applied Data Science Specialization
 	1. [Python for Data Science and AI](https://www.coursera.org/account/accomplishments/verify/UCMNGPHJB23Q)
-	2. Data Analysis with Python
+	2. [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/AMSG55EMMQAZ)
 	3. Data Visualization with Python
 	4. Applied Data Science Capstone
 * IBM Data Science Professional Certificate
@@ -25,7 +25,7 @@ Click on the name to verify the certificate. Certificates not available as links
 	3. Data Science Methodology
 	4. [Python for Data Science and AI](https://www.coursera.org/account/accomplishments/verify/UCMNGPHJB23Q)
 	5. Databases and SQL for Data Science
-	6. Data Analysis with Python
+	6. [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/AMSG55EMMQAZ)
 	7. Data Visualization with Python
 	8. Machine Learning with Python
 	9. Applied Data Science Capstone
