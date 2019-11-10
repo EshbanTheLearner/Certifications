@@ -12,7 +12,7 @@ Click on the name to verify the certificate. Certificates not available as links
 	5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/NGWMJJURRMEM)
 * Mathematics for Machine Learning
 	1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/NXYKFM6DH3E7)
-	2. Mathematics for Machine Learning: Multivariate Calculus
+	2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/X922S8GYQ3MA)
 	3. Mathematics for Machine Learning: PCA
 * Applied Data Science Specialization
 	1. [Python for Data Science and AI](https://www.coursera.org/account/accomplishments/verify/UCMNGPHJB23Q)
