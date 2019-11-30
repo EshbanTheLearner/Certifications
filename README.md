@@ -14,11 +14,11 @@ Click on the name to verify the certificate. Certificates not available as links
 	1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/NXYKFM6DH3E7)
 	2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/X922S8GYQ3MA)
 	3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/QZVRYYP4R28K)
-* Applied Data Science Specialization
+* [Applied Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/FRZJAJNXW6UN)
 	1. [Python for Data Science and AI](https://www.coursera.org/account/accomplishments/verify/UCMNGPHJB23Q)
 	2. [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/AMSG55EMMQAZ)
 	3. [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/CRXPN2CMRA6Y)
-	4. Applied Data Science Capstone
+	4. [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/verify/2JF8UD7GXW6M)
 * IBM Data Science Professional Certificate
 	1. What is Data Science?
 	2. Open Source tools for Data Science
@@ -28,4 +28,4 @@ Click on the name to verify the certificate. Certificates not available as links
 	6. [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/AMSG55EMMQAZ)
 	7. [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/CRXPN2CMRA6Y)
 	8. Machine Learning with Python
-	9. Applied Data Science Capstone
+	9. [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/verify/2JF8UD7GXW6M)
