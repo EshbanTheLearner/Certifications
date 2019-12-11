@@ -10,6 +10,12 @@ Click on the name to verify the certificate. Certificates not available as links
 	3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/GQMR6JU5BVVV)
 	4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/F3JHXTZALC3Q)
 	5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/NGWMJJURRMEM)
+* TensorFlow in Practice Specialization
+	1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+	2. Convolutional Neural Networks in TensorFlow
+	3. Natural Language Processing in TensorFlow
+	4. Sequences, Time Series and Prediction
+* Machine Learning by Stanford University
 * [Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/JLNS4URRRENR)
 	1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/NXYKFM6DH3E7)
 	2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/X922S8GYQ3MA)
