@@ -11,7 +11,7 @@ Click on the name to verify the certificate. Certificates not available as links
 	4. [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/verify/F3JHXTZALC3Q)
 	5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/NGWMJJURRMEM)
 * TensorFlow in Practice Specialization
-	1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+	1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/verify/UQHL8S776ZHX)
 	2. Convolutional Neural Networks in TensorFlow
 	3. Natural Language Processing in TensorFlow
 	4. Sequences, Time Series and Prediction
