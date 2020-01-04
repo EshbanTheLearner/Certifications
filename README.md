@@ -4,6 +4,7 @@ This repositiry is dedicated to different online courses I did on AI, Data Scien
 Click on the name to verify the certificate. Certificates not available as links are either in progress, in approval phase, or to be enrolled in future. 
 <br>
 
+* [Machine Learning](https://www.coursera.org/account/accomplishments/verify/84R6LS4LZT64)
 * [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/QCNQP6JC97Q9)
 	1. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/QFSE3GMFLZ4K)
 	2. [Improving Deep Neural Networks: Hyperparameter tunning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/9DTYVR5E9MNQ)
@@ -15,7 +16,6 @@ Click on the name to verify the certificate. Certificates not available as links
 	2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/verify/PRDA34GDNN8S)
 	3. Natural Language Processing in TensorFlow
 	4. Sequences, Time Series and Prediction
-* Machine Learning by Stanford University
 * [Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/JLNS4URRRENR)
 	1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/NXYKFM6DH3E7)
 	2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/X922S8GYQ3MA)
