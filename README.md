@@ -35,3 +35,9 @@ Click on the name to verify the certificate. Certificates not available as links
 	7. [Data Visualization with Python](https://www.coursera.org/account/accomplishments/verify/CRXPN2CMRA6Y)
 	8. Machine Learning with Python
 	9. [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/verify/2JF8UD7GXW6M)
+* [AWS Builders Online Series](https://scontent.fisb5-1.fna.fbcdn.net/v/t1.0-9/83186281_2708753492511362_2843650997178335232_n.jpg?_nc_cat=108&_nc_ohc=i-eSKL1E73gAX9QLfqZ&_nc_ht=scontent.fisb5-1.fna&oh=0459ded953f6d4d857039e30cc5a7d92&oe=5EC7914B)
+	1. Introductory Guide to AWS Cost Management and Efficiency
+	2. Move Fast & Be Secure on AWS Cloud
+	3. AWS Purpose-Built Database Strategy: The Right Tool for The Right Job
+	4. Host your Static Website on Amazon Simple Storage Service (S3)
+	5. Building Serverless Applications that Scale
