@@ -14,7 +14,7 @@ Click on the name to verify the certificate. Certificates not available as links
 * TensorFlow in Practice Specialization
 	1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/verify/UQHL8S776ZHX)
 	2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/verify/PRDA34GDNN8S)
-	3. Natural Language Processing in TensorFlow
+	3. [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/verify/6GAZVJ6J2HQE)
 	4. Sequences, Time Series and Prediction
 * [Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/JLNS4URRRENR)
 	1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/NXYKFM6DH3E7)
