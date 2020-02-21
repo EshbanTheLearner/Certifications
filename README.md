@@ -16,6 +16,11 @@ Click on the name to verify the certificate. Certificates not available as links
 	2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/verify/PRDA34GDNN8S)
 	3. [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/verify/6GAZVJ6J2HQE)
 	4. [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/verify/TGGZDVYQQF7F)
+* TensorFlow: Data and Deployment Specialization
+	1. [Browser-based Models with TensorFlow.js](https://www.coursera.org/account/accomplishments/verify/DWTY6NHVBZU9)
+	2. Device-based Models with TensorFlow Lite
+	3. Data Pipelines with TensorFlow Data Services
+	4. Advanced Deployment Scenarios with TensorFlow
 * [Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/JLNS4URRRENR)
 	1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/NXYKFM6DH3E7)
 	2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/X922S8GYQ3MA)
