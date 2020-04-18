@@ -50,7 +50,7 @@ Click on the name to verify the certificate. Certificates not available as links
 	1. [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/VXNTJABLUQEH)
 	2. [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/account/accomplishments/verify/79FC83QD7N9B)
 	3. [Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/verify/PPQSQPN84MSQ)
-	4. Building Resilient Streaming Analytics Systems on GCP
+	4. [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/account/accomplishments/certificate/A8SLLXWVY5TQ)
 	5. Smart Analytics, Machine Learning, and AI on GCP
 
 
