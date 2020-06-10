@@ -52,9 +52,7 @@ Click on the name to verify the certificate. Certificates not available as links
 	3. [Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/verify/PPQSQPN84MSQ)
 	4. [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/account/accomplishments/certificate/A8SLLXWVY5TQ)
 	5. [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/account/accomplishments/certificate/BVJPCXG8SP2V)
-
-
-
+* [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/3UH4EQYXFGTX)
 
 
 
