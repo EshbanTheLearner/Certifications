@@ -53,8 +53,11 @@ Click on the name to verify the certificate. Certificates not available as links
 	4. [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/account/accomplishments/certificate/A8SLLXWVY5TQ)
 	5. [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/account/accomplishments/certificate/BVJPCXG8SP2V)
 * [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/3UH4EQYXFGTX)
-
-
+* Natural Language Processing Specialization
+	1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/3QBEZGS8VW8C)
+	2. Natural Language Processing with Probabilistic Models
+	3. Natural Language Processing with Sequence Models
+	4. Natural Language Processing with Attention Models
 
 
 
