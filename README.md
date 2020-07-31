@@ -55,7 +55,7 @@ Click on the name to verify the certificate. Certificates not available as links
 * [Deep Neural Networks with PyTorch](https://www.coursera.org/account/accomplishments/certificate/3UH4EQYXFGTX)
 * Natural Language Processing Specialization
 	1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/3QBEZGS8VW8C)
-	2. Natural Language Processing with Probabilistic Models
+	2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/7Q2BG6Z2KAR3)
 	3. Natural Language Processing with Sequence Models
 	4. Natural Language Processing with Attention Models
 
