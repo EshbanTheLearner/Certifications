@@ -56,7 +56,7 @@ Click on the name to verify the certificate. Certificates not available as links
 * Natural Language Processing Specialization
 	1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/certificate/3QBEZGS8VW8C)
 	2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/7Q2BG6Z2KAR3)
-	3. Natural Language Processing with Sequence Models
+	3. [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/certificate/TAD5C76SKK4N)
 	4. Natural Language Processing with Attention Models
 
 
