@@ -58,6 +58,13 @@ Click on the name to verify the certificate. Certificates not available as links
 	2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/7Q2BG6Z2KAR3)
 	3. [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/certificate/TAD5C76SKK4N)
 	4. Natural Language Processing with Attention Models
+* Data Scientist
+	1. Fundamentals of the Databricks Lakehouse Platform Accreditation
+		* [Fundamentals of the Databricks Lakehouse Platform](https://academy.databricks.com/award/completion/34da2d20-b75c-318c-84db-8c9bb91a8f1e/view-ext)
+	2. Apache Spark Associate Developer
+	3. Data Science Professional
+	4. Apache Spark Programming with Databricks
+
 
 
 
